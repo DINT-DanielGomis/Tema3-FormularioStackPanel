@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <!-- comentario -->
         <StackPanel Margin="10">
 
             <StackPanel Orientation="Vertical"  Width="800" Margin="0,0,0,10" >
